@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>The Docker container orchestration tool</h2>
+<h2>Welcome to DevOps Essentials!</h2>
 </body>
 </html>
